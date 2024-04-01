@@ -1,0 +1,10 @@
+*.o
+*.d
+*.swp
+gwt-unitCache
+compilation-mappings.txt
+.install
+.vscode
+.idea/
+.git
+.xml
